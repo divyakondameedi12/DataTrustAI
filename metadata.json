@@ -1,0 +1,6 @@
+{
+  "name": "DataTrustAI",
+  "description": "Clean Data. Confident Decisions. Privacy-first, browser-based data quality analysis and deterministic data-cleaning workspace for CSV and Excel datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
